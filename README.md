@@ -12,7 +12,7 @@ Cada projeto possui seu próprio código e demonstração online.
 Tela de login moderna com foco em UI e responsividade.
 
 📁 Código: /blue-login  
-🌐 Demo: (colocar link Netlify aqui)
+🌐 Demo: https://blue-login-kolibaba.netlify.app
 
 ---
 
